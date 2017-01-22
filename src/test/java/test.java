@@ -5,6 +5,7 @@ public class test {
 		// TODO Auto-generated method stub
 		System.err.println("123456");
 		
+		System.out.print(123);
 
 	}
 
